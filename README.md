@@ -1,8 +1,6 @@
-# Nirvana System
+# Hertous System
 
 - Hierarchical Multi-AI-Agent Agency for DLMM investment
-
-![](docs/png/misa-nirvana.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -275,12 +273,12 @@ Intern Agents (IA) collect and preprocess raw data from on-chain and off-chain s
 <div style="page-break-after: always;"></div>
 
 
-## Nirvana System
+## Hertous System
 
 ### Overview
 
 
-The **Nirvana System** is a pivotal component of the multi-agent hierarchical architecture, inspired by the philosophical principles of Nirvana from Asian history. It establishes a structured platform for AI agents to engage in meaningful discussions, debates, and information exchange, thereby enhancing the collective intelligence and decision-making capabilities of the entire system.
+The **Hertous System** is a pivotal component of the multi-agent hierarchical architecture, inspired by the philosophical principles of Hertous from Asian history. It establishes a structured platform for AI agents to engage in meaningful discussions, debates, and information exchange, thereby enhancing the collective intelligence and decision-making capabilities of the entire system.
 
 
 <div style="page-break-after: always;"></div>
@@ -302,7 +300,7 @@ The **Nirvana System** is a pivotal component of the multi-agent hierarchical ar
     - Reduces the risk of biased or unilateral decision-making by incorporating collective agreement.
 
 4. **Continuous Learning:**
-    - The Nirvana System enables agents to learn from each other’s analyses and strategies, fostering an environment of continuous improvement.
+    - The Hertous System enables agents to learn from each other’s analyses and strategies, fostering an environment of continuous improvement.
     - Incorporates feedback loops where agents can refine their models based on collective insights.
 
 
@@ -310,7 +308,7 @@ The **Nirvana System** is a pivotal component of the multi-agent hierarchical ar
 
 
 - **Enhanced Decision-Making:** By leveraging collective intelligence, the system ensures more accurate and reliable investment and liquidity provisioning decisions.
-- **Robustness:** The collaborative nature of the Nirvana System mitigates the risk of errors or oversights that might arise from individual agents.
+- **Robustness:** The collaborative nature of the Hertous System mitigates the risk of errors or oversights that might arise from individual agents.
 - **Adaptability:** Facilitates rapid adaptation to changing market conditions by enabling swift information dissemination and consensus-driven strategy adjustments.
 
 
@@ -513,20 +511,20 @@ The **Point Farming System** is an incentivization mechanism designed to reward 
 ### Vision
 
 
-The long-term vision for the Nirvana discussion mechanism is to evolve into a scalable **GRoup-Agency-as-a-Service (GraaS)** platform. This service will democratize advanced multi-agent AI technology, enabling individuals and organizations to leverage collaborative AI agents for personalized decision-making, strategic insights, and operational efficiency across various domains.
+The long-term vision for the Hertous discussion mechanism is to evolve into a scalable **GRoup-Agency-as-a-Service (GraaS)** platform. This service will democratize advanced multi-agent AI technology, enabling individuals and organizations to leverage collaborative AI agents for personalized decision-making, strategic insights, and operational efficiency across various domains.
 
 
 ### Overview
 
 
-The GrasS platform will transform the Nirvana System’s agent collaboration framework into a subscription-based service. Users will gain access to a suite of intelligent, customizable agents capable of data aggregation, real-time analysis, and automated execution. Designed for scalability, the platform will serve diverse industries such as finance, supply chain, and R&D, seamlessly integrating existing workflows and data sources.
+The GrasS platform will transform the Hertous System’s agent collaboration framework into a subscription-based service. Users will gain access to a suite of intelligent, customizable agents capable of data aggregation, real-time analysis, and automated execution. Designed for scalability, the platform will serve diverse industries such as finance, supply chain, and R&D, seamlessly integrating existing workflows and data sources.
 
 
 ### Key Features
 
 
 1. **Agent Group Platform Development**
-   - Customizable agent groups configured to perform specialized tasks, mirroring the collaborative Nirvana framework.
+   - Customizable agent groups configured to perform specialized tasks, mirroring the collaborative Hertous framework.
    - Dynamic agent interaction ensures adaptability and continuous improvement.
 2. **Subscription-Based Personalized AI Agent Education System**
    - Users train agents to reflect their unique goals and preferences through a guided, subscription-driven education system.
@@ -547,7 +545,7 @@ The GrasS platform will transform the Nirvana System’s agent collaboration fra
 - **Continuous Learning**: Feedback-driven agent improvements ensure up-to-date strategies and better decision-making over time.
 
 
-The GraaS platform will empower users to leverage collaborative intelligence, turning the Nirvana mechanism into a practical, widely accessible tool for strategic problem-solving and innovation.
+The GraaS platform will empower users to leverage collaborative intelligence, turning the Hertous mechanism into a practical, widely accessible tool for strategic problem-solving and innovation.
 
 
 <div style="page-break-after: always;"></div>
